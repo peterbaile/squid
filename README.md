@@ -1,0 +1,7 @@
+# Squid (the DP page view prediction ML model)
+
+### Why Squid
+The messenger group chat the members created for this project was initially called *the DP Squad*. We got the inspiration of *Squid* from *Squad*.
+
+### Motivation
+The members of this project team have extensive connections with Penn’s student newspaper, The Daily Pennsylvanian (DP). Everyone at one point has worked as staff in the paper’s data analytics department; one member ran the department in 2019. During our time at the DP, we realized the potential of machine learning to improve the operations of the paper, which is increasingly moving towards a digital-first format as it struggles to find a viable business model in the twenty-first century. As it becomes less common for students to pick up a copy of the paper while moving around campus, the DP is striving to establish an online readership base in order to remain relevant to students and continue earning revenue from advertisers. This requires the paper to understand its audience and predict the performance of articles, which in turn requires machine learning models to provide this information. If the DP has a model that predicts the performance of news articles, they can use that information to form a social media posting strategy, curate their daily and weekly newsletters, and position articles on their website. This will help the paper increase their pageviews, keeping its work a part of the campus conversation and attracting more revenue opportunities.

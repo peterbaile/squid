@@ -35,6 +35,13 @@ Data: https://drive.google.com/drive/folders/14UH75BSa7sFZ17ZiX-kGvvOdsZJLeGYx?u
 
 4. DL_Percentile_Classification.ipynb - regression Deep Learning model to predict an article's views percentile (wrt articles published in that month)
 
+_Deep Learning Results so far_
+
+Model specification: GRU (32 units, 0.2 dropout), 0.25 dropout in embedding
+
+1. Classification: ~39.1% accuracy the 5-quintile classification, 75.9% off-by-one accuracy
+2. Regression on percentiles: mean absolute error of 16.6 percentile
+
 _Deep Learning: To look into next_
 
 1. Using titles to predict, instead of entire content

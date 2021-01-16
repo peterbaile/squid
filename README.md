@@ -19,8 +19,6 @@ Regression:
 
 2. Predict article's views (reasoning: perhaps certain months just have bad articles so predicting actual views makes sense too)
 
-Is this the best way to formulate the problem? Still not too sure.
-
 ### File Structure
 
 Data: https://drive.google.com/drive/folders/14UH75BSa7sFZ17ZiX-kGvvOdsZJLeGYx?usp=sharing
@@ -52,9 +50,9 @@ _Deep Learning: To look into next_
 6. *Training DL models on the residuals from supervised learning steps (after accounting for seasonality, time spent in **headlines** and other factors)
 
 
-**Supervised Learning - to-do**
+**Supervised Learning**
 
-Variables to use:
+Variables to used:
 Topic probabilities (from LDA) AND/OR bag-of-words (count or TFIDF vectorizer), metadata (tags, duration on front page), temporal features (day published, month, year), author
 
 Methods: Ridge regression / Logistic regression (simplest baseline), RF, GB, SVM (with hyperparameter tuning)

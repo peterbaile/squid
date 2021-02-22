@@ -2,6 +2,10 @@
 
 (last updated 12/2 8am ET)
 
+### Project Report
+
+Refer to CIS_520_Final_Project_Report.pdf for a summary of the methods and findings of this project
+
 ### Why Squid
 The messenger group chat the members created for this project was initially called *the DP Squad*. We got the inspiration of *Squid* from *Squad*.
 
